@@ -17,7 +17,7 @@ Welcome to my GitHub! I'm a web developer passionate about building clean, user-
 - React.js, Tailwind CSS, Bootstrap, Sass
 
 **Tools:**
-- Git & GitHub, VS Code,nChrome DevTools
+- Git & GitHub, VS Code,Chrome DevTools
 
 **Other:**
 - Responsive Design, UI/UX Principles, SEO Basics
