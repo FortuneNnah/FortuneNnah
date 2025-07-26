@@ -42,8 +42,8 @@ Welcome to my GitHub! I'm a web developer passionate about building clean, user-
 
 ## 📫 Let’s Connect
 
-- Portfolio:(https://tekmavenx.netlify.app/)
-- X: [@TechMavenX](https://x.com/TechMavenX)
+- Portfolio:(https://fortunes-webspace.netlify.app/)
+- X: [@_jhsFortune](https://x.com/_JhsFortune?t=CG63689a3vA7_t5tjaxjxg&s=09)
 - LinkedIn: [FortuneNnah](https://www.linkedin.com/in/fortune-nnah-4ab306360/)
 - Email: Fortunennah747@gmail.com 
 
