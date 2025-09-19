@@ -4,7 +4,7 @@
 
 ---
 
-Welcome to my GitHub! I'm a web developer passionate about building clean, user-friendly, and responsive websites & web apps. I love turning ideas into functional digital experiences using code, creativity, and a touch of caffeine ☕.
+Welcome to my GitHub! I'm a web developer passionate about building clean, user-friendly, and responsive websites & web apps. I love turning ideas into functional digital experiences using codes.
 
 ---
 
